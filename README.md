@@ -1,5 +1,12 @@
-# BoreHost
 
+<div align="center">
+  <h1>
+    BoreHost
+  </h1>
+  <img src="https://share.robotig.xyz/M2Vg5/baHagp.png/raw" alt="logo" width="230" height="130">
+</div>
+
+---
 BoreHost is a Paper/Folia plugin that exposes your Minecraft server through a Bore reverse tunnel.
 
 It lets players connect to your server from the internet without manual router port forwarding.
