@@ -61,6 +61,10 @@ After startup, BoreHost connects automatically and logs the public endpoint:
 
 Share that host and port with players.
 
+## How to self-host a Bore server
+Please refer to the official Bore documentation for instructions on setting up your own Bore server:
+https://github.com/ekzhang/bore
+
 ## Build From Source
 
 ```bash
