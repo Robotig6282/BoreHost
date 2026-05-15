@@ -1,0 +1,8 @@
+name: BoreHost
+version: '${version}'
+
+folia-supported: true
+main: xyz.robotig.boreHost.BoreHost
+api-version: '1.21.11'
+load: POSTWORLD
+author: Robotig6282

@@ -1,0 +1,23 @@
+# Maven build output
+/target/
+
+# Maven-generated helper file
+dependency-reduced-pom.xml
+
+# IntelliJ IDEA
+/.idea/
+*.iml
+*.ipr
+*.iws
+/out/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local Codex workspace files
+/.codex
+/.agents/
